@@ -1,0 +1,5 @@
+﻿  function.c
+D:\MY\Code\学生信息管理系统\function.c(587,8): warning C4013: “_getch”未定义；假设外部返回 int
+D:\MY\Code\学生信息管理系统\function.c(200): warning C4172: 返回局部变量或临时变量的地址: find_name
+D:\MY\Code\学生信息管理系统\function.c(228): warning C4172: 返回局部变量或临时变量的地址: find_num
+  学生信息管理系统.vcxproj -> D:\MY\Code\学生信息管理系统\x64\Debug\学生信息管理系统.exe
